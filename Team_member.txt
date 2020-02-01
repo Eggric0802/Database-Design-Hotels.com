@@ -1,0 +1,13 @@
+Project Title:
+Hotel.com-5
+
+Course number and section number:
+CS6360.002
+
+Team number:
+TEAM 35
+
+Team members (names and netids):
+Yi Ting Chen, yxc180041
+Ju Chen Lin,  jxl180022
+Yi Yuan Chiang, yxc180051
